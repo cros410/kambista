@@ -1,0 +1,24 @@
+{
+  "name": "kexchange",
+  "version": "1.0.0",
+  "description": "Library for common exchanges methods shared through kambista projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/kambista-public/kexchange.git"
+  },
+  "keywords": [
+    "exchange",
+    "kambista",
+    "shared-methods"
+  ],
+  "author": "Luis Espinoza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/kambista-public/kexchange.git/issues"
+  },
+  "homepage": "https://gitlab.com/kambista-public/kexchange.git#readme"
+}
