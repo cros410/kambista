@@ -59,7 +59,9 @@ function calculate (tcKambista, amountSent, originCurrency, destinationCurrency)
   return payload
 }
 
-module.exports = calculate
+module.exports = {
+  calculate
+}
 
 // Allow use of default import syntax in TypeScript
 module.exports.default = calculate

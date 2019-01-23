@@ -1,6 +1,6 @@
 {
   "name": "kexchange",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Library for common exchanges methods shared through kambista projects",
   "main": "index.js",
   "scripts": {
